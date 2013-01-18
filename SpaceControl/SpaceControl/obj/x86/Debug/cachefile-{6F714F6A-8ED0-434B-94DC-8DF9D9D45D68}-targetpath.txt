@@ -1,0 +1,13 @@
+Content\Earth.xnb
+Content\Jupiter.xnb
+Content\Mars.xnb
+Content\Mercury.xnb
+Content\Neptune.xnb
+Content\Saturn.xnb
+Content\Uranus.xnb
+Content\Venus.xnb
+Content\Star.xnb
+Content\Sun.xnb
+Content\curs.xnb
+Content\font.xnb
+Content\ship.xnb

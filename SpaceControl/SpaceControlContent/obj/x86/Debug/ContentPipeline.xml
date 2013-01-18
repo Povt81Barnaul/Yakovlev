@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Earth.png</Source>
+      <Name>Earth</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Учёба\Курс5\ПСМП\Term paper\SpaceControl\SpaceControl\SpaceControl\bin\x86\Debug\Content\Earth.xnb</Output>
+      <Time>2012-12-30T12:56:51.2492378+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Jupiter.png</Source>
+      <Name>Jupiter</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Учёба\Курс5\ПСМП\Term paper\SpaceControl\SpaceControl\SpaceControl\bin\x86\Debug\Content\Jupiter.xnb</Output>
+      <Time>2012-12-30T12:56:51.2512379+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Mars.png</Source>
+      <Name>Mars</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Учёба\Курс5\ПСМП\Term paper\SpaceControl\SpaceControl\SpaceControl\bin\x86\Debug\Content\Mars.xnb</Output>
+      <Time>2012-12-30T12:56:51.2542381+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Mercury.png</Source>
+      <Name>Mercury</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Учёба\Курс5\ПСМП\Term paper\SpaceControl\SpaceControl\SpaceControl\bin\x86\Debug\Content\Mercury.xnb</Output>
+      <Time>2012-12-30T12:56:51.2562382+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Neptune.png</Source>
+      <Name>Neptune</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Учёба\Курс5\ПСМП\Term paper\SpaceControl\SpaceControl\SpaceControl\bin\x86\Debug\Content\Neptune.xnb</Output>
+      <Time>2012-12-30T12:56:51.2582383+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Saturn.png</Source>
+      <Name>Saturn</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Учёба\Курс5\ПСМП\Term paper\SpaceControl\SpaceControl\SpaceControl\bin\x86\Debug\Content\Saturn.xnb</Output>
+      <Time>2012-12-30T12:56:51.2602384+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Uranus.png</Source>
+      <Name>Uranus</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Учёба\Курс5\ПСМП\Term paper\SpaceControl\SpaceControl\SpaceControl\bin\x86\Debug\Content\Uranus.xnb</Output>
+      <Time>2012-12-30T12:56:51.2622385+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Venus.png</Source>
+      <Name>Venus</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Учёба\Курс5\ПСМП\Term paper\SpaceControl\SpaceControl\SpaceControl\bin\x86\Debug\Content\Venus.xnb</Output>
+      <Time>2012-12-30T12:56:51.2642386+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Star.png</Source>
+      <Name>Star</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Учёба\Курс5\ПСМП\Term paper\SpaceControl\SpaceControl\SpaceControl\bin\x86\Debug\Content\Star.xnb</Output>
+      <Time>2012-12-30T12:57:43.6392343+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sun.png</Source>
+      <Name>Sun</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Учёба\Курс5\ПСМП\Term paper\SpaceControl\SpaceControl\SpaceControl\bin\x86\Debug\Content\Sun.xnb</Output>
+      <Time>2012-12-30T12:57:58.9051075+07:00</Time>
+    </Item>
+    <Item>
+      <Source>curs.png</Source>
+      <Name>curs</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Учёба\Курс5\ПСМП\Term paper\SpaceControl\SpaceControl\SpaceControl\bin\x86\Debug\Content\curs.xnb</Output>
+      <Time>2012-12-31T10:36:13.0287541+07:00</Time>
+    </Item>
+    <Item>
+      <Source>font.spritefont</Source>
+      <Name>font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Учёба\Курс5\ПСМП\Term paper\SpaceControl\SpaceControl\SpaceControl\bin\x86\Debug\Content\font.xnb</Output>
+      <Time>2013-01-09T13:05:59.8959667+07:00</Time>
+    </Item>
+    <Item>
+      <Source>ship.spritefont</Source>
+      <Name>ship</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Учёба\Курс5\ПСМП\Term paper\SpaceControl\SpaceControl\SpaceControl\bin\x86\Debug\Content\ship.xnb</Output>
+      <Time>2013-01-09T13:05:09.4570817+07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\Учёба\Курс5\ПСМП\Term paper\SpaceControl\SpaceControl\SpaceControlContent\</RootDirectory>
+      <LoggerRootDirectory>D:\Учёба\Курс5\ПСМП\Term paper\SpaceControl\SpaceControl\SpaceControl\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Учёба\Курс5\ПСМП\Term paper\SpaceControl\SpaceControl\SpaceControlContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\Учёба\Курс5\ПСМП\Term paper\SpaceControl\SpaceControl\SpaceControl\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-03-24T20:31:12.0978858+07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
